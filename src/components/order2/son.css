@@ -1,0 +1,11 @@
+.me-Son{
+    display: flex;
+}
+.me-son{
+    width: 25%;
+    text-align: center;
+    margin-top: .2rem;
+}
+.me-son .anticon{
+    color: #f22;
+}

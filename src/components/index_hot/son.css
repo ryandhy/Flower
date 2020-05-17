@@ -1,0 +1,35 @@
+.index-hot-son{
+    display: flex;
+    padding: .2rem 0;
+    border-bottom: 1px solid #ededed;
+    /* justify-content: space-between; */
+}
+.index-hot-son img{
+    width: 1.55rem;
+    height: 1.55rem;
+    margin-left: .1rem;
+}
+.index-hot-son .right{
+    width: 50%;
+    margin-left: .1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.index-hot-son .right .top h1{
+    font-size: .17rem;
+}
+.index-hot-son .right .top p{
+    font-size: .13rem;
+}
+.index-hot-son .right .bottom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.index-hot-son .right .bottom p{
+    margin-bottom: 0;
+}
+.index-hot-son .right .bottom p span:nth-child(1){
+    color: #ff86a5;
+}

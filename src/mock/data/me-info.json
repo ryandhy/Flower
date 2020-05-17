@@ -1,0 +1,19 @@
+{
+    "meinfo": [{
+            "img": "shopping",
+            "title": "我的兑换"
+        },
+        {
+            "img": "environment",
+            "title": "收获地址"
+        },
+        {
+            "img": "safety",
+            "title": "账户安全"
+        },
+        {
+            "img": "logout",
+            "title": "退出登录"
+        }
+    ]
+}

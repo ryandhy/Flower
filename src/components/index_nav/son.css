@@ -1,0 +1,17 @@
+.index-nav-Son{
+    display: flex;
+    flex-wrap: wrap;
+}
+.index-nav-son{
+    width: 20%;
+    text-align: center;
+}
+.index-nav-son img{
+    display: block;
+    width: .44rem;
+    height: .44rem;
+    margin: 0 auto;
+}
+.index-nav-son p{
+    font-size: .12rem;
+}

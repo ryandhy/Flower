@@ -1,0 +1,11 @@
+.sort-tab{
+    width: 100%;
+    border-top: 1px solid #ededed;
+    margin-top: .1rem;
+}
+.sort-tab .ant-tabs-tab{
+    /* margin: 0 auto; */
+    /* margin-right: 0; */
+    /* width: 33.33%; */
+    /* text-align: center; */
+}

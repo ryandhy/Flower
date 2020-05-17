@@ -1,0 +1,19 @@
+{
+    "meorder2": [{
+            "img": "wallet",
+            "title": "待付款"
+        },
+        {
+            "img": "shop",
+            "title": "待发货"
+        },
+        {
+            "img": "car",
+            "title": "待收货"
+        },
+        {
+            "img": "check-circle",
+            "title": "已完成"
+        }
+    ]
+}

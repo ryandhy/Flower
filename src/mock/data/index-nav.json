@@ -1,0 +1,43 @@
+{
+    "indexnav": [{
+            "img": "index_nav/hs1.png",
+            "title": "全部鲜花"
+        },
+        {
+            "img": "index_nav/hs2.png",
+            "title": "爱情鲜花"
+        },
+        {
+            "img": "index_nav/hs3.png",
+            "title": "生日鲜花"
+        },
+        {
+            "img": "index_nav/hs4.png",
+            "title": "永生花"
+        },
+        {
+            "img": "index_nav/hs5.png",
+            "title": "蛋糕"
+        },
+        {
+            "img": "index_nav/hs6.png",
+            "title": "礼盒鲜花"
+        },
+        {
+            "img": "index_nav/hs7.png",
+            "title": "开业花篮"
+        },
+        {
+            "img": "index_nav/hs8.png",
+            "title": "绿植"
+        },
+        {
+            "img": "index_nav/hs9.png",
+            "title": "礼品"
+        },
+        {
+            "img": "index_nav/hs9.png",
+            "title": "其他分类"
+        }
+    ]
+}

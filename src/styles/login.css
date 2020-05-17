@@ -1,0 +1,68 @@
+.me {
+    width: 100%;
+    height: .44rem;
+    font-size: .18rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.me .anticon:nth-child(1) {
+    margin-left: .1rem;
+}
+
+.me .anticon:nth-child(3) {
+    margin-right: .1rem;
+}
+
+.title {
+    width: 100%;
+    height: .24rem;
+    font-size: .18rem;
+    text-align: center;
+    color: #FF9B4D;
+    margin-top: .34rem;
+}
+
+.input {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.input p {
+    margin-bottom: .1rem;
+}
+
+.input p:nth-child(1) {
+    margin-top: .3rem;
+}
+
+.input p:nth-child(3) {
+    margin-top: .3rem;
+}
+
+.input .code {
+    width: 65%;
+}
+
+.input .Code {
+    display: flex;
+    justify-content: space-between;
+}
+
+.login-reg {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: .4rem;
+}
+
+.other {
+    color: #d0d0d0;
+    text-align: center;
+    margin-top: .5rem;
+}
+.others{
+    margin-top: .2rem;
+    display: flex;
+    justify-content:space-around;
+}

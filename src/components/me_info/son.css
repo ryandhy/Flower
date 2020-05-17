@@ -1,0 +1,24 @@
+.info-son{
+    width: 100%;
+    height: .5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: .15rem;
+    border-bottom: 1px solid #ededed;
+}
+.info-son .left .anticon:nth-child(1){
+    font-size: .18rem;
+    margin-right: .08rem;
+}
+.info-son .left{
+    margin-left: .1rem;
+    display: flex;
+    align-items: center;
+}
+.info-son .right{
+    margin-right: .1rem;
+}
+.info-son .right .anticon{
+    font-size: .12rem;
+}
